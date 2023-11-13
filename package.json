@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "langchain": "^0.0.186"
+  },
+  "name": "scrimbot",
+  "version": "1.0.0",
+  "description": "Practice for OpenAi API and LangChain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "OutOfTheFox",
+  "license": "ISC"
+}
