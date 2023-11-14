@@ -5,6 +5,7 @@
   },
   "name": "scrimbot",
   "version": "1.0.0",
+  "type": "module",
   "description": "Practice for OpenAi API and LangChain",
   "main": "index.js",
   "scripts": {
